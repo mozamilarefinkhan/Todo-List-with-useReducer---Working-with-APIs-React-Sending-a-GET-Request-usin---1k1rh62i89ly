@@ -35,4 +35,3 @@ const AddTodo = ({ dispatch }) => {
 }
 
 export { AddTodo }
-
